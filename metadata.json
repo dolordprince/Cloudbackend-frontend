@@ -1,0 +1,6 @@
+{
+  "name": "DOLOR3V Mobile AI Studio",
+  "description": "Mobile-first PWA AI workspace connected directly to DOLOR3V Microcloud and Pollinations AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
